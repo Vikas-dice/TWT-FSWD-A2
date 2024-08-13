@@ -1,0 +1,40 @@
+
+vikas chaudhary
+btech cse 2017 
+2- sr backend engg
+3- edtech 
+cb cn pepcoding 
+
+dice - tech lead 
+
+------------------------------------------------------------------
+
+javascript
+- javascript history
+- util setup
+run time env
+
+
+
+
+output
+input-variable-memory mgmt
+conditionals
+repeat _loops
+function/array
+
+
+
+
+
+var age=27;
+age=270;
+
+
+
+
+
+output
+
+
+
