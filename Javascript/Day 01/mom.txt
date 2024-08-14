@@ -1,0 +1,13 @@
+
+
+Date 14th aug , 2024
+
+Last Class - basic nodejs setup, js intro and history , output , variables 
+
+-Conditionals
+- loops 
+
+
+
+Conditionals -  if else else if 
+- 
