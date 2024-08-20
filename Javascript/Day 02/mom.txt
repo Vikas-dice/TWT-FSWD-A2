@@ -1,0 +1,11 @@
+
+Date 20th aug 2024
+
+Last Class - conditionals (if else else if switch ternary)
+
+Loops 
+
+loops - repeat 
+
+
+
