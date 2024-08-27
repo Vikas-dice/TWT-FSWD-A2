@@ -1,0 +1,5 @@
+//functions in js
+
+function myname{
+    //code 
+}
