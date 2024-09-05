@@ -1,0 +1,22 @@
+Prime Number 
+
+
+- 2 factor = number , 1
+
+3 1,3
+5 1,5
+7 1,7
+9 1 ,3, 9
+
+
+functions - number system 
+
+octal binary decimal hexadecimal
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+
+q1- decimal to anybase convert 
+q2- anybase to decimal

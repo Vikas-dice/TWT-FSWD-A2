@@ -1,0 +1,38 @@
+
+
+Date 29th Aug 2024
+
+Last Class - functions (es 5 and es6)
+
+revise es6 functions
+
+
+- fat arrow functions 
+Syntax 
+
+()=>
+{
+
+}
+
+
+
+
+
+
+number traversal
+
+
+1- % 
+2- /
+
+
+//projects:
+
+1)news app: html,css,
+
+2,3
+
+
+
+github code link   live link

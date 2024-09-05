@@ -1,0 +1,21 @@
+
+Date 5th sept , 2024
+
+Last Class - Number system , decimal to anybase , anybase to decimal ,
+
+-anybase to anybase 
+-anybase addition
+-anybase subtraction 
+-anybase multiplication 
+
+JS Level 1 complete 
+
+Next Week - js level 2 ( js deep )
+
+
+
+Any base addition
+anybase subtarction 
+
+
+
