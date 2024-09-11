@@ -1,0 +1,26 @@
+
+
+Date 11th sept , 2024
+
+Last Class - level 2 introduction 
+
+-JS LEVEL 1 RECAP
+-Array 
+
+
+
+
+Revision 
+
+1- And or not - logical operator
+
+or || hindi wala jodna 
+and && multi
+
+non zero value - true
+zero = false
+
+
+
+
+
