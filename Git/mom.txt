@@ -85,7 +85,7 @@ command
 
 1- git config --global user.name "vikas"
 2- git config --global user.email "vikas @xyz.com"
-3- [testing -]git config --list
+3- [Testing    ]git config --list
 
 
 
