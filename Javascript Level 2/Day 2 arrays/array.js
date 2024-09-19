@@ -35,15 +35,19 @@
 
 
 
-const arr=[1,2,3,4,4,5,5,6]
+// const arr=[1,2,3,4,4,5,5,6]
 
-const arr1=arr.splice(0,14);
+// const arr1=arr.splice(0,14);
 
 
-arr1.push(9,10,8,"aman");
-arr1.push([1,2,"aman"]);
-console.log(arr1[12][1])
+// arr1.push(9,10,8,"aman");
+// arr1.push([1,2,"aman"]);
+// console.log(arr1[12][1])
 
+const arr=[0,1,2,3,4,5,6,7,8,9]  //index and array
+const arr1=arr.slice(0,4);
+console.log(arr)
+console.log(arr1)
 
 
 
