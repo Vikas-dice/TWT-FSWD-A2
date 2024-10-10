@@ -1,0 +1,26 @@
+
+
+Date 10th oct , 2024
+
+Last Class - function cons 
+
+Browser APIs
+
+
+api - functions 
+
+camera 
+location - Browser
+
+settimepout 
+setinterval 
+
+
+
+
+
+
+
+
+
+
