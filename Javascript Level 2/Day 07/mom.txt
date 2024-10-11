@@ -1,0 +1,50 @@
+
+
+Date 11th oct 2024
+
+Last Class - browser APIs
+
+-ES6 
+Classes and OOPS 
+
+
+-----------------------------------------------------------------
+
+Class 
+
+Object - class 
+
+c++ , java -> object - class
+
+js - class -object - es5 - function cons 
+
+es6 - class keyword
+
+
+class -  blueprint , logical thing , skeleton 
+
+Human Class
+Animal Class
+class - props 
+
+Human class - 2 hath , 2 paer , khana khate h , saasn lete h , harami hote 
+
+Animal Class - dog - 2-2, khana , saans , loyal 
+
+
+
+
+syntax
+
+class class-name{
+
+    props and behaviour 
+
+
+    default constrcutor(){
+
+
+        //props - value set
+    }
+}
+
