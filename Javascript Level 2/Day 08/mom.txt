@@ -1,0 +1,14 @@
+
+
+Date 15th oct , 2024
+
+Last Class - oops intro , classes , cons, inheritance , method overloading , super cons 
+
+Doubts ?
+
+Acccess modifier
+Method overloading
+method overriding  and prop overriding
+
+
+
