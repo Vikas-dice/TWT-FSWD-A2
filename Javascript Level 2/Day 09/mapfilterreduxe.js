@@ -73,3 +73,24 @@ console.log(ans)
 //even nums sum - console
 
 
+console.log("------------------------------------------")
+
+let arry=[100,200,300,400,500]
+
+let ansfinal=arry.reduce((acc,cv,ci,arr)=>{
+    return cv+ci;
+
+    console.log(acc,cv,ci,arr)
+})
+console.log(ansfinal)
+
+// let ans3 =arry.reduce((acc,cv,ci,arr)=>{
+//     console.log(acc,cv,ci,arr)
+// },1000);
+// console.log(ans3)
+// let ans2=arry.reduce((pv,cv,arr)=>{
+//     console.log(arr)
+//     return pv+cv;
+
+// })
+// console.log(ans2)
