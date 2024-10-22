@@ -1,0 +1,19 @@
+
+
+Date 17th oct , 2024
+
+Doubt Class --
+
+map
+reduce
+function cons 
+overriding 
+deep and shallow copy 
+access modifier 
+rest and spread operator ... [imp]
+super cons 
+inheritance 
+forEach loop
+
+1 hr - 
+
