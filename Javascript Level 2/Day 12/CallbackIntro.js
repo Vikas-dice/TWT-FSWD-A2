@@ -17,17 +17,17 @@
 
 
 
-function greetMe(name){
-    console.log("hello ",name)
-}
+// function greetMe(name){
+//     console.log("hello ",name)
+// }
 
-function sayBye(){
-    console.log("BYE BYE")
-}
+// function sayBye(){
+//     console.log("BYE BYE")
+// }
 
 
-sayBye();
-greetMe();
+// sayBye();
+// greetMe();
 
 /*
 
@@ -50,4 +50,24 @@ ISSUES WITH CALLBACKS
 */
 
 
+
+
+
+//hi
+//bye 
+
+
+
+function greetme(name,callback){
+    console.log("hello ",name)
+    callback();
+
+}
+
+
+function bye(){
+    console.log("bye bye")
+}
+
+greetme("vikas",bye)
 

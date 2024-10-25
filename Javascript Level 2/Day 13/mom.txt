@@ -1,0 +1,14 @@
+
+
+Date 25th oct , 2024
+
+Last Class - callbacks , issues ,callback hell , ioc , promises , resolve , reject , promise chaining , async await , 
+
+
+Fetch 
+Axios 
+Dom Intro
+
+
+
+
