@@ -1,0 +1,25 @@
+
+
+Date 5th nov , 2024
+
+Last Class - js wrap up
+
+-DOM
+
+-element selection , manipulation
+-Event 
+
+Rule 1 - html - maniuplate - element selection
+1-html selection
+2-query selection
+
+3 button - dynamic - color change - 
+
+if else , switch 
+
+
+
+
+
+
+
