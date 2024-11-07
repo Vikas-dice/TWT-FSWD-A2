@@ -1,0 +1,26 @@
+
+
+Date 7th nov , 2024
+
+Last Class - dom intro , elt selection , 
+
+events
+
+1-mouse events 
+2-keyboard events 
+3- form 
+4- misc
+
+mouse events 
+click
+dblclick 
+scroll
+
+
+
+
+
+
+
+
+
