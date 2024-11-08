@@ -1,0 +1,18 @@
+
+
+Date 8th nov , 2024
+
+Last Class - mouse events 
+
+addeventlistner 
+custom tags 
+append 
+appendchild
+prepend
+keyboard events 
+
+
+
+addeventlistner
+
+btn.addeventlistner("event",func)
